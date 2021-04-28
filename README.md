@@ -32,6 +32,7 @@ Glad to see you here! 😍
   [![CSS Badge](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
   [![Javascript Badge](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/DEFAULT.asp)
   [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://www.w3schools.com/php/)
+  [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/php/php_mysql_intro.asp)
   [![Java Badge](https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com/java/java_intro.asp)
 
 ### About Me
