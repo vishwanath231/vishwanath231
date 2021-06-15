@@ -1,6 +1,7 @@
 ![I'm Web Developer](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)
 
 ![Profile views](https://gpvc.arturio.dev/Vishwanath730) 
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 
 
