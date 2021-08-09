@@ -29,12 +29,12 @@ Glad to see you here! 😍
 
 ### Skills and Experience
 
-  
-  [![Javascript Badge](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/DEFAULT.asp)
-  [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.w3schools.com/react/default.asp)
+  [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+  [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+  [![Javascript Badge](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
+  [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://www.w3schools.com/php/)
-  [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/php/php_mysql_intro.asp)
-  [![Java Badge](https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com/java/java_intro.asp)
+  [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/MySQL/default.asp)
   [![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj5hofQzqPyAhXKaSoKHWe5DfoYABAAGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQOD2MbyHQlrBDwyNgpI1zpaCORgQusIDroD07OQrULymy3bOsfHt1Uj-rndcbtAee5wCQhbDTlY67EMJ49YMJZY&sig=AOD64_0q2rdQ4cZAk3yittDjlx7vsYcvSA&q&adurl&ved=2ahUKEwjtzvvPzqPyAhXOXisKHdU6CUgQ0Qx6BAgCEAE)
   [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
