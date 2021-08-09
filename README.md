@@ -35,26 +35,11 @@ Glad to see you here! 😍
   [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://www.w3schools.com/php/)
   [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/MySQL/default.asp)
-  [![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj5hofQzqPyAhXKaSoKHWe5DfoYABAAGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQOD2MbyHQlrBDwyNgpI1zpaCORgQusIDroD07OQrULymy3bOsfHt1Uj-rndcbtAee5wCQhbDTlY67EMJ49YMJZY&sig=AOD64_0q2rdQ4cZAk3yittDjlx7vsYcvSA&q&adurl&ved=2ahUKEwjtzvvPzqPyAhXOXisKHdU6CUgQ0Qx6BAgCEAE)
+  [![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.adobe.com/in/)
   [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-### About Me
+##Email
+📫 How to reach me: ✉️ vishwanathvishwabai@gmail.com.
 
-- 🔭 I’m currently working on this page. 
-
-- 🌱 I’m currently learning more about Java and Javascript 
-
-- 👯 I’m looking to collaborate on Youtube 
-
-- 🤔 I’m looking for help with Developement 
-
-- 💬 Ask me about Javascript and tech related stuff. 
-
-- 📫 How to reach me: ✉️ vishwanathvishwabai@gmail.com.
-
-- 😄 Pronouns: He/His 
-
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwanath730&show_icons=true)  
-
