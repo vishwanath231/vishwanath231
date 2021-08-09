@@ -38,8 +38,4 @@ Glad to see you here! 😍
   [![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.adobe.com/in/)
   [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-##Email
-📫 How to reach me: ✉️ vishwanathvishwabai@gmail.com.
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwanath730&show_icons=true)  
+<h1 align="center">❤️</h1>
