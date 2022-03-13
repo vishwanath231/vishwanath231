@@ -1,4 +1,4 @@
-![I'm Web Developer](https://github.com/vishwanath231/vishwanath231/blob/Master/twitter-banner.jpg)
+![I'm Web Developer](https://github.com/vishwanath231/vishwanath231/blob/Master/Twitter%20Banner%20(1).png)
 
 
 
