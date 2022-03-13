@@ -1,4 +1,5 @@
-![I'm Web Developer](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)
+![I'm Web Developer](https://github.com/vishwanath231/vishwanath231/blob/Master/twitter-banner.jpg)
+
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
