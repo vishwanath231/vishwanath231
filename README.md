@@ -2,7 +2,6 @@
 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 ![Visits Badge](https://komarev.com/ghpvc/?username=vishwanath231&label=PROFILE+VIEWS)
 
 
