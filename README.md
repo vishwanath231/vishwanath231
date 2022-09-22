@@ -1,4 +1,4 @@
-![I'm Web Developer](https://github.com/vishwanath231/vishwanath231/blob/Master/banner.jpg)
+![Banner](https://github.com/vishwanath231/vishwanath231/blob/Master/banner.jpg)
 
 
 
