@@ -14,12 +14,9 @@
 
 # VISHWANATH.A    
 
-## WEB DEVELOPER
-
-Web Developer with a passion for web application development and success in managing development projects. I am skilled in conceptualizing, designing, developing, and deploying software containing logical and mathematical solutions to business problems. I am dedicated to driving innovation to follow industry and technological trends and facilitate the early adoption of innovations.
+## Full-Stack Developer
 
 
-Glad to see you here! 😍 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/vishwanath231)](https://www.facebook.com/vishwanath231)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/vishwanath231?s=09)](https://twitter.com/vishwanath231)
