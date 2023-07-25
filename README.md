@@ -1,4 +1,4 @@
-![Banner](https://github.com/vishwanath231/vishwanath231/blob/Master/programming.png)
+<!-- ![Banner](https://github.com/vishwanath231/vishwanath231/blob/Master/programming.png) -->
 
 
 
