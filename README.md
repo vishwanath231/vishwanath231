@@ -6,18 +6,11 @@
 
 
 
-
-
-
-
-
-
 # VISHWANATH.A    
+Full-Stack Developer
 
-## Full-Stack Developer
 
-
-### Get in touch
+## Get in touch
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/vishwanath231)](https://www.facebook.com/vishwanath231)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/vishwanath231?s=09)](https://twitter.com/vishwanath231)
@@ -25,7 +18,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwanath231/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwanath231)
 
-### Skills and Experience
+## Skills and Experience
 
   [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://www.w3schools.com/js/)
   [![React Badge](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://reactjs.org/)
