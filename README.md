@@ -1,4 +1,4 @@
-<!-- ![Banner](https://github.com/vishwanath231/vishwanath231/blob/Master/programming.png) -->
+![Banner](https://github.com/vishwanath231/vishwanath231/blob/Master/programming.png)
 
 
 
@@ -6,8 +6,8 @@
 
 
 
-# VISHWANATH.A    
-Full-Stack Developer
+## About Me 😎   
+Hi, I'm Vishwanath - Full Stack Developer
 
 
 ## Get in touch
