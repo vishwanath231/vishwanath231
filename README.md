@@ -2,7 +2,7 @@
 
 
 
-![Visits Badge](https://komarev.com/ghpvc/?username=vishwanath231&label=PROFILE+VIEWS)
+<!-- ![Visits Badge](https://komarev.com/ghpvc/?username=vishwanath231&label=PROFILE+VIEWS) -->
 
 
 
